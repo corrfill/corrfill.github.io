@@ -1,2 +1,2 @@
 # CorrFill Website
-Thanks to the Nerfies
+Special thanks to Nerfies for providing the codebase for this website.
